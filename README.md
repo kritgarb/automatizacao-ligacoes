@@ -1,2 +1,2 @@
-# automatizacao-ligacoes
+# Automatização de ligações
 Projeto feito com Python.
